@@ -11,9 +11,6 @@ public:
     ~Dog();
 
     void makeSound() const;
-
-protected:
-    std::string type;
 };
 
 #endif

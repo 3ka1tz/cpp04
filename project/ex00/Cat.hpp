@@ -11,9 +11,6 @@ public:
     ~Cat();
 
     void makeSound() const;
-
-protected:
-    std::string type;
 };
 
 #endif
