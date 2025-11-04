@@ -4,7 +4,7 @@ CXX = c++
 CXXFLAGS = -std=c++98 -Wall -Wextra -Werror
 
 SRC = main.cpp \
-      AAnimal.cpp WrongAnimal.cpp \
+      Animal.cpp WrongAnimal.cpp \
 	  Brain.cpp \
 	  Cat.cpp Dog.cpp WrongCat.cpp
 

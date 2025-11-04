@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "AAnimal.hpp"
+#include "Animal.hpp"
 #include "Cat.hpp"
 #include "Dog.hpp"
 
