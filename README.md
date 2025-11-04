@@ -17,3 +17,7 @@ makeSound()
 It will print an appropriate sound (cats don’t bark).
 
 To ensure you understood how it works, implement a WrongCat class that inherits from a WrongAnimal class. If you replace the Animal and the Cat by the wrong ones in the code above, the WrongCat should output the WrongAnimal sound.
+
+## [Exercise 01: I don’t want to set the world on fire](https://github.com/3ka1tz/cpp04/tree/main/project/ex01)
+Constructors and destructors of each class must display specific messages.
+
