@@ -4,8 +4,8 @@ CXX = c++
 CXXFLAGS = -std=c++98 -Wall -Wextra -Werror
 
 SRC = main.cpp \
-      Animal.cpp WrongAnimal.cpp \
-	  Cat.cpp Dog.cpp WrongCat.cpp
+      Animal.cpp Cat.cpp Dog.cpp \
+      WrongAnimal.cpp WrongCat.cpp
 
 OBJ = $(SRC:.cpp=.o)
 
