@@ -16,8 +16,8 @@ Implement a **Dog** class that inherits from Animal.
 
 These two derived classes must set their type field depending on their name. Then, the Cat’s type will be initialized to "Cat", and the Dog’s type will be initialized to "Dog". The type of the Animal class can be left empty or set to the value of your choice.
 
-Every animal must be able to use the member function: 
-`makeSound();` 
+Every animal must be able to use the member function:  
+`makeSound();`  
 It will print an appropriate sound (cats don’t bark).
 
 Running this code should print the specific sounds of the Dog and Cat classes, not the Animal’s.
