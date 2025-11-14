@@ -2,9 +2,9 @@
 Subtype Polymorphism, Abstract Classes, and Interfaces
 
 ## [Exercise 00: Polymorphism](https://github.com/3ka1tz/cpp04/tree/main/project/ex00)
-Turn-in directory: ex00/  
-Files to turn in: Makefile, main.cpp, *.cpp, *.{h, hpp}  
-Forbidden functions: None
+**Turn-in directory:** ex00/  
+**Files to turn in:** Makefile, main.cpp, *.cpp, *.{h, hpp}  
+**Forbidden functions:** None
 
 For every exercise, you have to provide the **most complete tests** you can. Constructors and destructors of each class must display specific messages. Don’t use the same message for all classes.
 
@@ -46,9 +46,9 @@ To ensure you understood how it works, implement a **WrongCat** class that inher
 Implement and turn in more tests than the ones given above.
 
 ## [Exercise 01: I don’t want to set the world on fire](https://github.com/3ka1tz/cpp04/tree/main/project/ex01)
-Turn-in directory: ex01/  
-Files to turn in: Files from previous exercise + *.cpp, *.{h, hpp}  
-Forbidden functions: None
+**Turn-in directory:** ex01/  
+**Files to turn in:** Files from previous exercise + *.cpp, *.{h, hpp}  
+**Forbidden functions:** None
 
 Constructors and destructors of each class must display specific messages.
 
@@ -79,9 +79,9 @@ return 0;
 Implement and turn in more tests than the ones given above.
 
 ## [Exercise 02: Abstract class](https://github.com/3ka1tz/cpp04/tree/main/project/ex02)
-Turn-in directory: ex02/  
-Files to turn in: Files from previous exercise + *.cpp, *.{h, hpp}  
-Forbidden functions: None
+**Turn-in directory:** ex02/  
+**Files to turn in:** Files from previous exercise + *.cpp, *.{h, hpp}  
+**Forbidden functions:** None
 
 Creating Animal objects doesn’t make sense after all. It’s true, they make no sound!
 
