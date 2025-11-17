@@ -5,8 +5,8 @@
 #include "Dog.hpp"
 
 int main() {
-    // const AAnimal* animal = new AAnimal();
-    // animal->makeSound();
+    // const AAnimal* aanimal = new AAnimal();
+    // aanimal->makeSound();
 
     const int size = 10;
     AAnimal* animals[size];
