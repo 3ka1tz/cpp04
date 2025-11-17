@@ -20,6 +20,10 @@ int main() {
         animals[i]->makeSound();
     }
 
+    for (int i = 0; i < size; i++) {
+        delete animals[i];
+    }
+
     Cat originalCat;
     originalCat.setIdea(0, "Old idea0");
     originalCat.setIdea(1, "Old idea1");
@@ -37,10 +41,6 @@ int main() {
     std::cout << "copiedCatA  Idea[1]: " << copiedCatA.getIdea(1) << std::endl;
     std::cout << "copiedCatB  Idea[0]: " << copiedCatB.getIdea(0) << std::endl;
     std::cout << "copiedCatB  Idea[1]: " << copiedCatB.getIdea(1) << std::endl;
-
-    for (int i = 0; i < size; i++) {
-        delete animals[i];
-    }
 
     return 0;
 }
