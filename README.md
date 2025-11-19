@@ -1,5 +1,5 @@
 # C++ - Module 04
-Subtype Polymorphism, Abstract Classes, and Interfaces
+Subtype Polymorphism, Abstract Classes and Interfaces
 
 ## [Exercise 00: Polymorphism](https://github.com/3ka1tz/cpp04/tree/main/project/ex00)
 **Turn-in directory:** ex00/  
